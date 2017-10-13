@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">!pizza!</string>
+    <string name="customerPrompt">Customer Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="pizzaName">Pizza!</string>
+    <string name="decription">order your pizza...</string>
+    <string name="size">Sizes</string>
+    <string name="size1">small ($7)</string>
+    <string name="size2">medium ($9)</string>
+    <string name="size3">large ($11)</string>
+    <string name="topping">Toppings</string>
+    <string name="sauce1">Barbecue sauce</string>
+    <string name="sauce3">Tomato sauce</string>
+    <string name="crust">Crust Types</string>
+    <string name="protein">Protein ($2 each)</string>
+    <string name="chicken">Chicken</string>
+    <string name="sausage">Sausage</string>
+    <string name="bacon">Bacon</string>
+    <string name="cheese">Cheese</string>
+    <string name="sauce">Sauce ($0.50 each)</string>
+    <string name="pepperoni">Pepperoni</string>
+    <string name="sauce2">Hot Sauce</string>
+    <string name="order">Order!</string>
+    <string-array name="crust_type">
+        <item>Thin Crust</item>
+        <item>Normal Crust</item>
+        <item>Filled Crust </item>
+    </string-array>
+</resources>
